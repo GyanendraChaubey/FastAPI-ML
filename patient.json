@@ -1,0 +1,31 @@
+{
+    "PAT001":{
+        "name": "John Doe",
+        "age": 45,
+        "gender": "male",
+        "diagnosis": "Hypertension",
+        "treatment_plan": "Medication and lifestyle changes"
+    },
+    "PAT002":{
+        "name": "Jane Smith",
+        "age": 37,
+        "gender": "female",
+        "diagnosis": "Diabetes Type 2",
+        "treatment_plan": "Insulin therapy and diet management"
+        },
+    "PAT003":{
+        "name": "Emily Johnson",
+        "age": 29,
+        "gender": "female",
+        "diagnosis": "Asthma",
+        "treatment_plan": "Inhalers and avoiding triggers"
+    },
+    "PAT004":{
+        "name": "Michael Brown",
+        "age": 53,
+        "gender": "male",
+        "diagnosis": "Coronary Artery Disease",
+        "treatment_plan": "Surgery and medication"
+    }
+}
+
